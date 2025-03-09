@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\microsoft vs projects\\ATM Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\cashdeposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:cashdeposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\choosecashdeposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:choosecashdeposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\cashwithdraw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:cashwithdraw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\cashdeposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:cashdeposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\chooseaccounttype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:chooseaccounttype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\chooseaccounttype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:chooseaccounttype.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\balance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:balance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\balance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:balance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\pinchange.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:pinchange.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\pinchange.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:pinchange.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|f:\\microsoft vs projects\\atm management system\\fundtransfer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{92DE12E7-0531-4F32-BE95-587C12C85792}|ATM Management System.vbproj|solutionrelative:fundtransfer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseCashDeposit.vb [Design]",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\ChooseCashDeposit.vb",
+              "RelativeDocumentMoniker": "ChooseCashDeposit.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\ChooseCashDeposit.vb [Design]",
+              "RelativeToolTip": "ChooseCashDeposit.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:35:24.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CashWithdraw.vb",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\CashWithdraw.vb",
+              "RelativeDocumentMoniker": "CashWithdraw.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\CashWithdraw.vb",
+              "RelativeToolTip": "CashWithdraw.vb",
+              "ViewState": "AgIAAC4AAAAAAAAAmJkrwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:27:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashDeposit.vb",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\CashDeposit.vb",
+              "RelativeDocumentMoniker": "CashDeposit.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\CashDeposit.vb*",
+              "RelativeToolTip": "CashDeposit.vb*",
+              "ViewState": "AgIAAB0AAAAAAAAAkJkpwCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:26:46.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.vb [Design]",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\Main.vb",
+              "RelativeDocumentMoniker": "Main.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\Main.vb [Design]",
+              "RelativeToolTip": "Main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-08T07:38:17.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.vb",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\Main.vb",
+              "RelativeDocumentMoniker": "Main.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\Main.vb",
+              "RelativeToolTip": "Main.vb",
+              "ViewState": "AgIAABgAAAAAAAAANDMgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:08:02.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashDeposit.vb [Design]",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\CashDeposit.vb",
+              "RelativeDocumentMoniker": "CashDeposit.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\CashDeposit.vb [Design]*",
+              "RelativeToolTip": "CashDeposit.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:21:30.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChooseAccountType.vb",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\ChooseAccountType.vb",
+              "RelativeDocumentMoniker": "ChooseAccountType.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\ChooseAccountType.vb",
+              "RelativeToolTip": "ChooseAccountType.vb",
+              "ViewState": "AgIAAA0AAAAAAABUYWoiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:25:16.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChooseAccountType.vb [Design]",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\ChooseAccountType.vb",
+              "RelativeDocumentMoniker": "ChooseAccountType.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\ChooseAccountType.vb [Design]",
+              "RelativeToolTip": "ChooseAccountType.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:15:58.896Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Balance.vb",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\Balance.vb",
+              "RelativeDocumentMoniker": "Balance.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\Balance.vb",
+              "RelativeToolTip": "Balance.vb",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAnwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:08:23.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Balance.vb [Design]",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\Balance.vb",
+              "RelativeDocumentMoniker": "Balance.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\Balance.vb [Design]",
+              "RelativeToolTip": "Balance.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:08:21.435Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PINChange.vb",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\PINChange.vb",
+              "RelativeDocumentMoniker": "PINChange.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\PINChange.vb",
+              "RelativeToolTip": "PINChange.vb",
+              "ViewState": "AgIAAC0AAAAAAAA5CYgUwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-09T12:03:19.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PINChange.vb [Design]",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\PINChange.vb",
+              "RelativeDocumentMoniker": "PINChange.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\PINChange.vb [Design]",
+              "RelativeToolTip": "PINChange.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-08T13:50:29.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FundTransfer.vb",
+              "DocumentMoniker": "F:\\microsoft vs projects\\ATM Management System\\FundTransfer.vb",
+              "RelativeDocumentMoniker": "FundTransfer.vb",
+              "ToolTip": "F:\\microsoft vs projects\\ATM Management System\\FundTransfer.vb",
+              "RelativeToolTip": "FundTransfer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-08T13:44:38.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

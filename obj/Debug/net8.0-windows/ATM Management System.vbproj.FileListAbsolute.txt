@@ -1,0 +1,44 @@
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.exe
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.deps.json
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.runtimeconfig.json
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.pdb
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Form1.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Login.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.vbproj.GenerateResource.cache
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.GeneratedMSBuildEditorConfig.editorconfig
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.AssemblyInfoInputs.cache
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.AssemblyInfo.vb
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.vbproj.CoreCompileInputs.cache
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.dll
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\refint\ATM Management System.dll
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.pdb
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.genruntimeconfig.cache
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ref\ATM Management System.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.vbproj.AssemblyReference.cache
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Main.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM Mana.E180A33D.Up2Date
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Balance.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.CashWithdraw.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.ChooseAccountType.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.FastCash.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.FundTransfer.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.PINChange.resources
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\microsoft vs projects\ATM Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Resources.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.CashDeposit.resources
+F:\microsoft vs projects\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.ChooseCashDeposit.resources
