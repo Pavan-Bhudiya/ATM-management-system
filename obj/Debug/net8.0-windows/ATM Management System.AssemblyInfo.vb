@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ATM Management System"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8760e6a8b94568f0e21b127e94ec08f0bad2ce7"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ATM Management System"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ATM Management System"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
